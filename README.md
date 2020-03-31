@@ -1,12 +1,10 @@
 
 
 # Ta-FrontEnd-FinalProject *Senan,Tural,Huseyn*
-- [ ] >Deadline Start Time: **27.03.2019**
-- [x] Deadline End Time: **06.04.2019**
-
-- **1,2 Number Page's Tural**
-- **3,5 Number Page's Senan**
-- **4,6 Number Page's Huseyn**
+- [ ] Deadline Start Time: **27.03.2019** && Deadline End Time: **06.04.2019**
+- [x] **1,2 Number Page's Tural**
+- [x] **3,5 Number Page's Senan**
+- [x] **4,6 Number Page's Huseyn**
 
 - **_We_ Pages**
 
