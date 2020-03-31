@@ -4,9 +4,11 @@
 - [ ] >Deadline Start Time: **27.03.2019**
 - [x] Deadline End Time: **06.04.2019**
 
-- **6 Sehife var Toplamda Her kes oz sehifesini hazirlayacaq.**
+- **1,2 Number Page's Tural**
+- **3,5 Number Page's Senan**
+- **4,6 Number Page's Huseyn**
 
-- **_Sehifeler_ Asagidakilardir**
+- **_We_ Pages**
 
 - 1.[Depot Page](https://depot.qodeinteractive.com/).
 - 2.[Product Page](https://depot.qodeinteractive.com/product/basket-with-handles/).
