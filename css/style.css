@@ -12,6 +12,7 @@ a, abbr, acronym, address, applet, b, big, blockquote, body, caption, center, ci
         margin-bottom: 0px;
     padding: 0;
     vertical-align: baseline;
+    list-style: none;
     outline: 0;
 }
 header{
@@ -36,10 +37,8 @@ header .left, header .right{
     color: #080808;
     font-size: 45px;
     line-height: 58px;
-    width: 95%;
     position: relative;
-    width: 80%;
-    margin: 20px 100px 0;
+    margin: 20px 0 0;
 }
 .up_middle{
     padding-top: 40px;
@@ -167,3 +166,32 @@ footer{
     line-height: 12px;
 }
 
+.container-fluid{
+    padding-right: 2rem;
+padding-left: 2rem;
+}
+.container, .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+}
+.wrap {
+    box-sizing: border-box;
+    max-width: 1200px;
+    margin: 0 auto;
+        margin-right: auto;
+        margin-left: auto;
+}
+/* .box-row{
+    position: relative;
+    box-sizing: border-box;
+    min-height: 1rem;
+    margin-bottom: 0;
+    border: 1px solid #FFF;
+    border-radius: 2px;
+    overflow: hidden;
+    text-align: center;
+    color: #fff;
+} */
+.row{
+    text-align: center;
+}
