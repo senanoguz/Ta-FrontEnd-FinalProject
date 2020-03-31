@@ -1,6 +1,13 @@
 
 
 # Ta-FrontEnd-FinalProject
-Sehifeler ayrilib 6 Sehife kim hansi sehifeni isleyirse
-O qovlug adinda qovluq yaradib ve yaxud clone edib islesin
-Ta-FrontEnd-FinalProject
+**6 Sehife var Toplamda Her kes oz sehifesini hazirlayacaq.**
+
+**_Sehifeler_ Asagidakilardir**
+
+1.[Depot Page](https://depot.qodeinteractive.com/).
+2.[Product Page](https://depot.qodeinteractive.com/product/basket-with-handles/).
+3.[With-sidebar Page](https://depot.qodeinteractive.com/with-sidebar/).
+4.[Portfolio-list Page](https://depot.qodeinteractive.com/portfolio-list/standard/).
+5.[Blog Page](https://depot.qodeinteractive.com/blog/blog-masonry/).
+6.[Success Page](https://depot.qodeinteractive.com/success-has-its-advantage/).
