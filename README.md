@@ -1,6 +1,8 @@
 
 
-# Ta-FrontEnd-FinalProject
+# Ta-FrontEnd-FinalProject *Senan,Tural,Huseyn*
+##Deadline Start Time: **27.03.2019**
+##Deadline End Time: **06.04.2019**
 **6 Sehife var Toplamda Her kes oz sehifesini hazirlayacaq.**
 
 **_Sehifeler_ Asagidakilardir**
