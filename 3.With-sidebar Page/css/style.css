@@ -47,22 +47,19 @@ padding: 0 30px 0 20px;
 .cart{
     margin: 0 -15px;
 }
-#order span{
-    position: relative;
+.order span{
+
     display: inline-block;
     background-color: #080808;
     color: #fff;
     padding: 1px 15px 0;
     font-size: 10px;
     font-weight: 700;
-    top: -40px;
     height: 25px;
     line-height: 25px;
     text-transform: uppercase;
     letter-spacing: .1em;
-    transition-duration: 2s;
-    transition-delay: 2s;
-    opacity: 100;
+
 }
 .rating{
 color: #ebbc00;
@@ -70,6 +67,7 @@ color: #ebbc00;
 .cart img{
     max-width: 219px;
     max-height: 266px;
+    z-index: 1;
 }
 .left-design h5{
     text-align: left;
