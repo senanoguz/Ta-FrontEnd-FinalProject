@@ -2,14 +2,19 @@
     font-family: 'Catamaran', sans-serif;
     font-weight: 300;
 }
+::selection {
+    background: #080808;
+    color: #fff;
+}
 body{
     font-family: Catamaran,sans-serif;
 font-weight: 300;
 font-size: 16px;
 color: #929292;
+overflow-x:hidden;
 }
 a, a:hover, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, p a, p a:hover {
-    color: #080808;
+    color: #ffffff;
 }
 a, abbr, acronym, address, applet, b, big, blockquote, body, caption, center, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, h5, h6, html, i, iframe, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, tbody, td, tfoot, th, thead, tr, tt, u, ul, var {
     background: 0 0;
@@ -24,6 +29,48 @@ a, abbr, acronym, address, applet, b, big, blockquote, body, caption, center, ci
 .middlearea{
     padding-top: 85px;
 }
+.second {
+    height: auto; visibility: hidden; opacity: 1; overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    top: 30px;
+    left: 55px;
+    transition: all .3s ease;
+    vertical-align: middle;
+    background-color: #111;
+    padding: 23px 0 29px;
+    color: #fff;
+}
+.three  ul li{
+    color: #fff !important;
+    clear: both;
+    min-width: 150px;
+    padding: 5px 30px 5px 20px !important;
+
+}
+.three{
+    height: auto; visibility: hidden; opacity: 1; overflow: hidden;
+    position: absolute;
+    display: inline-block;
+    top: 30px;
+    left: 180px;
+    transition: all .3s ease;
+    vertical-align: middle;
+    background-color: #111;
+    padding: 23px 0 29px;
+    color: #fff;
+}
+.second ul li{
+    min-width: 150px;
+
+    color: #fff !important;
+    clear: both;
+    padding: 5px 30px 5px 20px !important;
+
+
+}
+
+
 .left-design{
     margin: 0 0 67px;
 }
@@ -65,10 +112,11 @@ padding: 0 30px 0 20px;
 color: #ebbc00;
 }
 .cart img{
-    max-width: 219px;
+    max-width: 90%;
     max-height: 266px;
     z-index: 1;
 }
+
 .left-design h5{
     text-align: left;
     font-weight: bold;
@@ -396,4 +444,37 @@ padding: 30px;
 }
 .pagination{
     margin-top: 30px;
+}
+
+
+.addcart a{
+    color: #999;
+    transition: color .2s ease-out;
+    text-decoration: none;
+}
+.addcart{
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    -webkit-transform: translateX(-100%);
+    -moz-transform: translateX(-100%);
+    transform: translateX(-100%);
+    letter-spacing: 2px;
+    opacity: 0;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    transition: all .4s ease;
+}
+.price{
+    color: #999;
+
+    font-family: Montserrat,sans-serif;
+    opacity: 1;
+    -webkit-transition: all .3s ease;
+    -moz-transition: all .3s ease;
+    transition: all .3s ease;
+    will-change: transform;
 }
